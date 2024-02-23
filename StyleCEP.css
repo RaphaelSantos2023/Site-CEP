@@ -1,0 +1,23 @@
+.Head{
+    background-color: #FDF003;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+body{
+    background-color: #0051A2;
+}
+
+.SeacherBlock{
+    background-color: white;
+    padding: 40px;
+    margin: 20px;
+    justify-content: center;
+    
+}
+
+#endereco{
+    text-align: center;
+    size: 20px;
+}
